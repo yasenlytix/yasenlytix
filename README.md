@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Yaseen
+# 😵 Hi 👋, I'm Yaseen
 **🚀 Junior BI Data Analyst || Driving Data to Help Businesses Grow Smarter || 📌 Lahore •PK**
 
 Email Me 👉 ✉️ **yasinmahi0047@gmail.com** For Collaboration/Project or Hiring. 😊😊
