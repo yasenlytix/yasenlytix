@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **yasinmahi0047@gmail.com** For Collaboration/Project or Hi
 - 😄 **Pronouns:** Yasey
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-### 🎓 I am a Data-driven CS Student. 😊😊
+### 🎓 I am a Concept-driven CS Student. 😊😊
 
 
 ## 🌐 Socials:
