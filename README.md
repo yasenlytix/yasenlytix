@@ -3,14 +3,14 @@
 
 <br>
 
-Email Me 👉 **yasinmahi0047@gmail.com** for Collaboration/Project or Hiring. 😊
+_Email Me_ 👉 **yasinmahi0047@gmail.com** _for Collaboration/Project or Hiring._ 😊
 
-- 🌱 **I’m currently learning:** Selenium | Playwright & API Testing
+- 🌱 **I’m currently learning:** _Selenium | Playwright & API Testing_
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 - 🤔 **I’m looking for help with:** Internship/Contract
 - 💬 **Ask me about:** Collaboration, Tech Support
 <!-- - 📫 **How to reach me:** Enter your email here -->
-- ⚡ **Tech fact:** I trun Functionality into Reliability!
+- ⚡ **Tech fact:** _I trun Functionality into Reliability!_
 
 ### 🎓 I am a Concept-driven Self-taught Learner. 😊
 
