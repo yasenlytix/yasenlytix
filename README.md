@@ -1,18 +1,16 @@
 # 😵 Hi 👋, I'm Yaseen
-**🚀 Junior BI Data Analyst || Driving Data to Help Businesses Grow Smarter || 📌 Lahore •PK**
+**🚀 Junior Software Quality Assurance (SQA) Engineer || Manual & Automation QA || 📌 Lahore •PK**
 
 Email Me 👉 ✉️ **yasinmahi0047@gmail.com** For Collaboration/Project or Hiring. 😊😊
 
-- 🔭 **I’m currently working on:** Finance & Business Projects
-- 🌱 **I’m currently learning:** Business Intelligence & Ai
+- 🌱 **I’m currently learning:** Selenium | Playwright & API Testing 
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
-- 🤔 **I’m looking for help with:** Internships/Contracts
+- 🤔 **I’m looking for help with:** Internship/Contract
 - 💬 **Ask me about:** Collaboration, Tech Support
 <!-- - 📫 **How to reach me:** Enter your email here -->
-- 😄 **Pronouns:** Yasey
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-### 🎓 I am a Concept-driven CS Student. 😊😊
+### 🎓 I am a Concept-driven Self-taught Learner. 😊😊
 
 
 ## 🌐 Socials:
