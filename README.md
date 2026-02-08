@@ -5,7 +5,7 @@
 
 _Email Me_ 👉 **yasinmahi0047@gmail.com** _for Collaboration/Project or Hiring._ 😊
 
-- 🌱 **I’m currently learning:** _Selenium | Playwright & API Testing_
+- 🌱 **Mastering:** &nbsp; **Selenium | Playwright & API Testing**
 <!-- - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
 - 🤔 **I’m looking for help with:** Internship/Contract
 - 💬 **Ask me about:** Collaboration, Tech Support
